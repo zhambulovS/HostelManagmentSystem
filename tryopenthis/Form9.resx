@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>                                                                                                                                          Microsoft Visual Studio
+   
+
+            Microsoft Visual Studio - біріктірілген бағдарламалық жасақтаманы әзірлеу ортасын және бірқатар басқа құралдарды қамтитын Microsoft өнімдерінің  желісі . Бұл өнімдер графикалық интерфейсі бар
+консольдік қосымшаларды да , ойындар мен қосымшаларды да , соның ішінде Windows Forms технологиясын қолдайтын қолданбаларды, сондай-ақ веб- сайттарды , веб-қосымшаларды , Windows 
+қолдайтын барлық платформалар үшін жергілікті және басқарылатын кодтағы веб - қызметтерді әзірлеуге мүмкіндік береді. Windows Mobile , Windows CE , .NET Framework , Xbox , Windows Phone .NET 
+Compact Framework және Silverlight .
+      Microsoft Visual Studio — Microsoft корпорациясының біріктірілген әзірлеу ортасы (IDE) . Ол компьютерлік бағдарламаларды , сондай-ақ веб- сайттарды , веб-қосымшаларды , веб-қызметтерді және мобильді 
+қосымшаларды әзірлеу үшін қолданылады . Visual Studio Windows API , Windows Forms , Windows Presentation Foundation , Windows Store және Microsoft сияқты Microsoft бағдарламалық жасақтамасын әзірлеу 
+платформаларын пайдаланады . Күміс жарық . Ол жергілікті кодты да , басқарылатын кодты да жасай алады ..
+
+      Visual Studio IntelliSense ( кодты аяқтау құрамдас бөлігі ) қолдауын, сондай-ақ кодты рефакторингті қамтиды . Біріктірілген жөндеу құралы бастапқы деңгейдегі жөндеуші ретінде де, машина деңгейіндегі жөндеуші 
+ретінде де жұмыс істейді. Басқа кірістірілген құралдарға код профилін жасаушы, GUI қолданбаларын жасауға арналған дизайнер , веб-дизайнер , сынып дизайнері және дерекқор схемасының дизайнері кіреді. 
+Ол барлық дерлік деңгейде функционалдылықты кеңейтетін плагиндерді, соның ішінде нұсқаларды басқару жүйелеріне қолдауды қосады (мысалы, Subversion жәнеGit ) және доменге тән тілдерге арналған редакторлар
+мен визуалды дизайнерлер немесе бағдарламалық жасақтаманы әзірлеудің өмірлік циклінің басқа аспектілері (мысалы, Azure DevOps клиенті : Team Explorer) үшін құралдар жинағы сияқты жаңа құралдар жинақтарын қосу.Visual Studio 
+36 түрлі бағдарламалау тілін қолдайды және код редакторы мен отладчикке тілге арналған қызмет бар болса, кез келген дерлік бағдарламалау тілін (әр түрлі дәрежеде) қолдауға мүмкіндік береді. Кірістірілген
+тілдерге C , C++ , C++/CLI , Visual Basic .NET , C# , F# , JavaScript , TypeScript , XML кіреді. , XSLT , HTML және CSS . Python , Ruby , Node.js сияқты басқа тілдерге қолдау көрсету жәнеM плагиндер арқылы қол жетімді . 
+Java (және J# ) тіліне бұрын қолдау көрсетілген.
+       Visual Studio бағдарламасының ең негізгі нұсқасы, қауымдастық басылымы тегін қол жетімді. Visual Studio қауымдастығы шығарылымының ұраны: «Студенттер, ашық бастапқы әзірлеушілер және жеке әзірлеушілер
+үшін тегін, толық мүмкіндікті IDE.»
+      Конструктор
+Visual Studio бағдарламасы қолданбаларды әзірлеуге көмектесетін көптеген визуалды дизайнерлерді қамтиды. Бұл құралдар мыналарды қамтиды:
+
+Windows пішіндерінің дизайнері
+Windows пішіндерінің дизайнері Windows Forms көмегімен GUI қолданбаларын жасау үшін пайдаланылады . Орналасуды басқару элементтерін басқа контейнерлердің ішіне орналастыру немесе пішіннің бүйіріне 
+қондыру арқылы басқаруға болады. Деректерді көрсететін басқару элементтері (мәтіндік жолақ, тізім көрінісі және тор көрінісі сияқты ) дерекқорлар немесе сұраулар сияқты деректер көздеріне байланыстырылуы мүмкін . 
+Деректерге байланысты басқару элементтерін Деректер көздері терезесінен дизайн бетіне апару арқылы жасауға болады. Пайдаланушы интерфейсі оқиғаға негізделген бағдарламалау үлгісі арқылы кодпен байланыстырылады . 
+Дизайнер қолданба үшін C# кодын жасайды немесеVB.NET .
+WPF дизайнері
+Cider кодтық атауы бар WPF дизайнері Visual Studio 2008 бағдарламасымен таныстырылды. Windows Forms дизайнері сияқты ол апарып тастау метафорасын қолдайды. Ол Windows Presentation Foundation бағдарламасына 
+бағытталған пайдаланушы интерфейстерін жасау үшін қолданылады . Ол деректерді байланыстыруды және орналасуды автоматты басқаруды қоса алғанда, барлық WPF мүмкіндіктерін қолдайды . Ол пайдаланушы интерфейсі
+ үшін XAML кодын жасайды. Жасалған XAML файлы дизайнерлерге арналған Microsoft Expression Design өнімімен үйлесімді . XAML коды кодтың артындағы үлгіні пайдаланып кодпен байланыстырылады .
+Веб-дизайнер/әзірлеуші
+Visual Studio сонымен қатар виджеттерді сүйреп апару арқылы беттерді жасауға мүмкіндік беретін веб-сайт редакторы мен дизайнерін қамтиды. Ол ASP.NET қосымшаларын әзірлеу үшін қолданылады және HTML , CSS және 
+JavaScript тілдерін қолдайды . Ол ASP.NET кодымен байланысу үшін артта қалған код үлгісін пайдаланады. Visual Studio 2008 бағдарламасынан бастап, веб-дизайнер пайдаланатын орналасу механизмі Microsoft Expression Web
+ бағдарламасымен ортақ пайдаланылады . Сондай-ақ MVC технологиясына арналған ASP.NET MVC қолдауы бөлек жүктеп алу және Microsoft корпорациясынан қолжетімді ASP.NET динамикалық деректер жобасы ретінде бар.
+Класс конструкторы
+Класс дизайнері UML модельдеуді пайдалана отырып, сыныптарды (олардың мүшелерін және оларға кіруді қоса) жасау және өңдеу үшін пайдаланылады . Класс құрастырушы сыныптар мен әдістер үшін C# және VB.NET код 
+диаграммаларын жасай алады. Ол сондай-ақ қолмен жазылған сыныптардан сынып диаграммаларын жасай алады.
+Деректер дизайнері
+Деректер конструкторын терілген кестелерді, негізгі және сыртқы кілттерді және шектеулерді қоса, дерекқор схемаларын графикалық өңдеу үшін пайдалануға болады. Оны графикалық көріністен сұрауларды әзірлеу үшін де пайдалануға болады.
+Карта құрастырушы
+Visual Studio 2008 бағдарламасынан бастап салыстыру дизайнері деректерді инкапсуляциялайтын дерекқор схемалары мен сыныптар арасындағы салыстыруды жобалау үшін LINQ to SQL арқылы пайдаланылады. Жаңа ORM шешімі, 
+ADO.NET Entity Framework ескі технологияны ауыстырады және жақсартады.
+Басқа құралдар
+Қойынды шолғышын ашыңыз
+Ашық қойынды браузері барлық ашық қойындыларды тізімдеу және олардың арасында ауысу үшін пайдаланылады. Ол арқылы шақырылады CTRL + TAB .
+Меншік редакторы
+«Сипаттар өңдегіші» құралы Visual Studio ішіндегі GUI панеліндегі сипаттарды өңдеу үшін пайдаланылады. Ол барлық нысандарға, соның ішінде сыныптарға , пішіндерге, веб-беттерге және басқа элементтерге арналған барлық 
+қолжетімді сипаттарды (тек оқуға арналған және орнатуға болатын) тізімдейді .
+Объект браузері
+Object Browser — Microsoft .NET жүйесіне арналған аттар кеңістігі мен сынып кітапханасының шолғышы . Оны басқарылатын жиындарда (иерархиялық түрде ұйымдастырылған) аттар кеңістіктерін көру үшін пайдалануға болады .
+ Иерархия файлдық жүйедегі ұйымды көрсетуі немесе көрсетпеуі мүмкін.
+Solution Explorer
+Visual Studio тіліндегі шешім - бұл бағдарлама жасау үшін пайдаланылатын кодтық файлдар мен басқа ресурстардың жинағы. Шешімдегі файлдар иерархиялық түрде орналастырылған, олар файлдық жүйедегі ұйымды көрсетуі 
+немесе көрсетпеуі мүмкін. Solution Explorer шешімдегі файлдарды басқару және қарау үшін пайдаланылады.
+Data Explorer
+Data Explorer бағдарламасы Microsoft SQL Server даналарында дерекқорларды басқару үшін пайдаланылады . Ол дерекқор кестелерін жасауға және өзгертуге мүмкіндік береді ( T-SQL пәрмендерін пайдалану немесе деректер 
+конструкторын пайдалану). Оны сұраулар мен сақталған процедураларды жасау үшін де пайдалануға болады , соңғысы T-SQL- де немесе SQL CLR арқылы басқарылатын кодта болады . Түзету және IntelliSense қолдауы да қол жетімді .</value>
+  </data>
+</root>
