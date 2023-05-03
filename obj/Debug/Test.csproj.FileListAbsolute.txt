@@ -1,0 +1,83 @@
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.pdb
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Form1.resources
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Form2.resources
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Form3.resources
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Form4.resources
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Form5.resources
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Form6.resources
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Form7.resources
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\bin\Debug\zzz.mdf
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\bin\Debug\zzz_log.ldf
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Form10.resources
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Form11.resources
+c:\users\acer\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Form12.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.exe
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.pdb
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\bin\Debug\zzz.mdf
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\bin\Debug\zzz_log.ldf
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\bin\Debug\Test.exe
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\bin\Debug\Test.pdb
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form10.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form11.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form12.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form2.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form3.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form4.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form5.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form6.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form7.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form9.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form8.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\bin\Debug\xxx.mdf
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\bin\Debug\xxx_log.ldf
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form13.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form14.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form15.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form16.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\Test.Form1.en.resources
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\bin\Debug\en\Test.resources.dll
+C:\Users\Acer\Desktop\СРСП 2-2\Курсовой\Test\Test\obj\Debug\en\Test.resources.dll
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.pdb
+C:\Users\Admin\Desktop\Test\Test\bin\Debug\xxx.mdf
+C:\Users\Admin\Desktop\Test\Test\bin\Debug\xxx_log.ldf
+C:\Users\Admin\Desktop\Test\Test\bin\Debug\zzz.mdf
+C:\Users\Admin\Desktop\Test\Test\bin\Debug\zzz_log.ldf
+C:\Users\Admin\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Admin\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\Admin\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\Admin\Desktop\Test\Test\bin\Debug\en\Test.resources.dll
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form10.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form11.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form12.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form13.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form14.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form15.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form16.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form2.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form3.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form4.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form5.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form6.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form7.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form8.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form9.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Form1.en.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\en\Test.resources.dll
